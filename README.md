@@ -18,7 +18,7 @@ $いーえるしんくろないざー \atop{\large \rm{ELSynchronizer}}$は、�
 
 これにより全てのELのSEQボタンとSTART/STOPボタンを1台から制御することができます。
 
-![overview.png](doc\image\overview.png)
+<img src="doc\image\overview.png" alt="overview.png">
 
 以下、制御するELを「親EL」、制御されるELを「子EL」と呼びます。
 
@@ -31,7 +31,7 @@ $いーえるしんくろないざー \atop{\large \rm{ELSynchronizer}}$は、�
 
 ### 各部の名称
 
-![parts_name.png](doc\image\parts_name.png)
+<img src="doc\image\parts_name.png" alt="parts_name.png">
 
 ### 必要なもの
 
@@ -48,7 +48,7 @@ $いーえるしんくろないざー \atop{\large \rm{ELSynchronizer}}$は、�
     2. ELからとる場合はUSB Type-A端子[TO DEVICE]を使用する(非推奨)
 4. ELSynchronizerのLEDが光れば起動成功
 
-![connection.png](doc\image\connection.png)
+<img src="doc\image\connection.png" alt="connection.png">
 
 ### 演奏での使用方法
 
