@@ -2,6 +2,12 @@
 
 <img src="doc\image\medium.jpeg" alt="medium.jpeg" width="400px">
 
+## 免責
+
+**このデバイスの使用により生じた不利益等について当方は一切の責任を負いません。**
+
+**使用中に故障した際の代替策を用意することを強く勧めます。**
+
 ## 概要
 
 $いーえるしんくろないざー \atop{\large \rm{ELSynchronizer}}$は、複数台のELの動作を同期するためのデバイスです。
